@@ -162,7 +162,7 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 </details>
 
-![](https://github.com/ZhijunLin7/ContadorToast/blob/master/Camera%20Roll/1.2.PNG)
+![](https://github.com/ZhijunLin7/ContadorToast/blob/master/Camera%20Roll/1.2.png)
 
 ## Codigo de xml ConstraintLayout
 <details>
@@ -219,6 +219,6 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 </details>
 
-![](https://github.com/ZhijunLin7/ContadorToast/blob/master/Camera%20Roll/1.3.PNG)
+![](https://github.com/ZhijunLin7/ContadorToast/blob/master/Camera%20Roll/1.3.png)
 
 
